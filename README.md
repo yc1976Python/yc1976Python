@@ -1,7 +1,7 @@
 # About Me 
 > I am **Yong** 😄. I live with my wife 💞️ and my two boys 👦+👦 in Sydney.
 
-> Somthing Else:
+> Somthing Else I am good at:
 * __EME Guy__ ☢️: Mobile network site radiation safety assessment. It is about ___Electromagnetic Energy___.  
 
 * __ACMA AP__: Good knowledge on radio propagation and ACMA spectrum device registration.
