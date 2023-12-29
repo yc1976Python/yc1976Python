@@ -1,5 +1,5 @@
 # About Me 
-> I am **Yong** 😄. I live with my wife 💞️ and I am the father of two boys 👦+👦 in Sydney.
+> I am **Yong** 😄. I live with my wife 💞️ and my two boys 👦+👦 in Sydney.
 
 > Somthing Else:
 * __EME Guy__ ☢️: Mobile network site radiation safety assessment. It is about ___Electromagnetic Energy___.  
