@@ -5,9 +5,6 @@
 
 > I am currently working on a web app with two other fellow experts who came up with interesting idea and great vision.  
 
-|Great Vision|Status|
-|---------------|------|
-|The three musketeers of online RF dosimetry|Planning|
 
 
 
